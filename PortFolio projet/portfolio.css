@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+body{
+    background-image: linear-gradient(#3aa5a4,#7ae5e4);
+}
+.dav{
+    background: url(maqu.jpg);
+    background-size: cover;
+    background-position: center;
+    opacity: 0.12;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    z-index: -1;
+}
+.david{height: 200px;
+    width: 300px;
+    float: left;
+    margin: 3px;
+    padding-right: 1cm;
+    padding-bottom: 0.5cm;
+    padding-left: 0.5cm;
+    }
+.web{text-align: center;
+color: white;
+
+}
+
+p{
+color: rgb(96, 93, 93);
+font-family: 'Lato', sans-serif;}
+.am{padding: 3px;
+color: rgb(96, 93, 93);
+font-family: 'lato',sans-serif;
+
+}
+.about{ border: 30px;
+    background-color: white;
+    padding: 45px;
+    margin: 50px;
+padding-bottom: 2cm;
+}
+h1{
+    text-align: center;
+    color: rgb(245, 254, 255);
+    font-family: 'oswald', sans-serif;
+
+}
+
+  
+.photo1,.photo2,.photo3{padding-right: 0,5cm;
+    height: 170px;
+    width: 33,33px;
+    padding-right: 1cm;
+    margin: 2px;
+    float: left;}
+
+    .work,.Education,.language,.Contact ,.Social{border: 30px;
+        background-color: white;
+        padding: 50px;
+        margin: 50px;
+        padding-bottom: 1cm;}
+
+.projects{
+    background-color: white;
+    overflow: hidden;
+    padding: 50px;
+    padding-top: 15px;
+    padding-right: 0px;   
+        margin: 50px;}
+    
+
+    .boutton {
+        width: 13%;
+        height: 35px;
+        background-color: black;
+        color: white;
+        border-radius: 40px;
+       font-size: 0.40cm;
+       cursor: pointer;
+    }
+    .textarea,.email,.text{
+        margin: 5px;
+        background-color: rgb(223, 227, 230);
+        width: 97%;
+        border: 25px;
+        padding: 10px;
+        border-radius: 5px;
+        
+       
+    }
+   .photos{
+    float: left;
+    width: 33,33%;
+    padding-left: 0.5cm;
+  
+   }
+   .Edu{
+    float: left;
+    width: 33%;
+   }
+   .Education{
+    height: 270px;
+   }
+   .lan{
+    float: left;
+    width: 33.33%;
+    
+   }
+   .language{
+    height: 200px;
+   }
+   .email,.text{
+    height: 25px;
+   
+   }
+   .SN{height: 28px;
+width: 35px;}
+h2{
+    font-family: 'oswald', sans-serif;
+}
+b{color: black;}
+.soc{
+    float: left;
+    width: 33.33%;  
+        
+ }
+.Social{ height: 150px;}
